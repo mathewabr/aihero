@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual environments
+.venv
+
+# Temp Notebooks
+TempToDel.ipynb
+P1OpenClaw-Copy1.ipynb
